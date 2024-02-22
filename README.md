@@ -1,0 +1,1 @@
+Java web-application with funcationalities for login,adding customers and provding customer the service to send email notification to any user using the web interface.Uses Java servlet,JDBC, MySQL and HTML,CSS for front end.
